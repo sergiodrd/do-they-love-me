@@ -1,5 +1,4 @@
 function find_out() {
-    const div = document.body.querySelector("div")
     const text = document.querySelector("h2")
     text.innerText = "no they don't love you sorry"
     const button = document.querySelector("button")
